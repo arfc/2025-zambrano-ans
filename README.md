@@ -34,4 +34,8 @@ mamba activate osier-new
 ```
 
 
+### Installation of CPLEX
+
+This model directly uses the IBM ILOG [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio) optimization tool for simulations. The steps for installation are available on the CPLEX payment page upon payment. However, the tool itself is free for all verified academic institutions. Steps to install the academic version are [here]( http://ibm.biz/CPLEXonAI)
+
 
