@@ -1,1 +1,1 @@
-folder holds termination data needed to determine the termination criterion for different algorithm runs and situations
+folder holds both the epsilon values from running the UIUC models in the notebooks folder and the associated .ipynb file needed to determine the needed tolerance value for convergence
